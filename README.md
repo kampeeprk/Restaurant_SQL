@@ -39,15 +39,15 @@ Create a database that can be shown on the restaurant's dashboard in order to tr
 ### Resulted
 ![Screenshot 2023-07-05 033924](https://github.com/stlionnn/Lion_Restaurant/assets/98281969/8a62e1a1-1d7f-4aae-8329-dfddaecae295)
 
-### 2. Create restaurant table data table csv file using Excel. 
+### 2. Create restaurant data in csv file using Excel. 
    - [Restaurant's data](https://github.com/stlionnn/Lion_Restaurant/blob/main/Restuarent%20data.xlsx)
      
-### 3. Using [SQLite Online](https://sqliteonline.com/) to combine the columns and data and find the insight of restaurant data to answer the business questions.
+### 3. Using [SQLite Online](https://sqliteonline.com/) to combine the columns and data and find the insight of restaurant data to answer the business requirements.
    - [SQL scripts create & insert](https://github.com/stlionnn/Lion_Restaurant/blob/main/SQL%20scripts%20create%20%26%20insert.sql)
    - [SQL scripts for visualization](https://github.com/stlionnn/Lion_Restaurant/blob/main/SQL%20scripts%20for%20visualization.sql)
    - Output.csv [[Order]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Order%20activity.csv) [[Inventory1]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Inventory%201.csv) [[Inventory2]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Inventory%202.csv) [[Staff]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Staff.csv)
      
-### 4. Using [Tableau Public](https://public.tableau.com/app/discover) to visualize data to response business question as follows
+### 4. Using [Tableau Public](https://public.tableau.com/app/discover) to visualize data to response business requirements.
    [Dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Restaurent/Restaurant?publish=yes)
    - Orders Summary
      ![image](https://github.com/stlionnn/Restaurant/assets/98281969/c080fa48-4d00-4527-a1e9-738167c701a5)
