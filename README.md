@@ -45,10 +45,13 @@ Create a database that can be shown on the restaurant's dashboard in order to tr
 ### 3. Using [SQLite Online](https://sqliteonline.com/) to combine the columns and data and find the insight of restaurant data to answer the business questions.
    - [SQL scripts create & insert](https://github.com/stlionnn/Lion_Restaurant/blob/main/SQL%20scripts%20create%20%26%20insert.sql)
    - [SQL scripts for visualization](https://github.com/stlionnn/Lion_Restaurant/blob/main/SQL%20scripts%20for%20visualization.sql)
-   - [Output data.csv]
+   - Output.csv [[Order]](https://github.com/stlionnn/Restaurant/blob/main/Order%20activity.csv) [[Inventory1]](https://github.com/stlionnn/Restaurant/blob/main/Inventory%201.csv) [[Inventory2]](https://github.com/stlionnn/Restaurant/blob/main/Inventory%202.csv) [[Staff]](https://github.com/stlionnn/Restaurant/blob/main/Staff.csv)
      
 ### 4. Using [Tableau Public](https://public.tableau.com/app/discover) to visualize data to response business question as follows
-[Dash board]
+   [Dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Restaurent/Restaurant?publish=yes)
    - Orders Summary
+     ![image](https://github.com/stlionnn/Restaurant/assets/98281969/c080fa48-4d00-4527-a1e9-738167c701a5)
    - Inventory Management
+     ![image](https://github.com/stlionnn/Restaurant/assets/98281969/23a9c866-b585-4fee-a9a7-3b22e52733db)
    - Staff Cost
+     ![image](https://github.com/stlionnn/Restaurant/assets/98281969/ef4180ee-f3c8-4132-a4b5-149895ef97ff)
