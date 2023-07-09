@@ -45,7 +45,7 @@ Create a database that can be shown on the restaurant's dashboard in order to tr
 ### 3. Using [SQLite Online](https://sqliteonline.com/) to combine the columns and data and find the insight of restaurant data to answer the business questions.
    - [SQL scripts create & insert](https://github.com/stlionnn/Lion_Restaurant/blob/main/SQL%20scripts%20create%20%26%20insert.sql)
    - [SQL scripts for visualization](https://github.com/stlionnn/Lion_Restaurant/blob/main/SQL%20scripts%20for%20visualization.sql)
-   - Output.csv [[Order]](https://github.com/stlionnn/Restaurant/blob/main/Order%20activity.csv) [[Inventory1]](https://github.com/stlionnn/Restaurant/blob/main/Inventory%201.csv) [[Inventory2]](https://github.com/stlionnn/Restaurant/blob/main/Inventory%202.csv) [[Staff]](https://github.com/stlionnn/Restaurant/blob/main/Staff.csv)
+   - Output.csv [[Order]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Order%20activity.csv) [[Inventory1]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Inventory%201.csv) [[Inventory2]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Inventory%202.csv) [[Staff]](https://github.com/stlionnn/Restaurant/blob/main/Data%20for%20visualization/Staff.csv)
      
 ### 4. Using [Tableau Public](https://public.tableau.com/app/discover) to visualize data to response business question as follows
    [Dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Restaurent/Restaurant?publish=yes)
