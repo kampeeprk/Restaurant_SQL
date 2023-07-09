@@ -1,0 +1,96 @@
+order_id,item_price,quantity,item_cat,item_name,created_at,delivery_address1,delivery_city,delivery_zipcode,delivery
+ORD_001,190,1,Main,Soy marinated salmon,5/7/23 12:00,"36 Khlong Tan, Khlong Toei",Bangkok,10110,TRUE
+ORD_001,200,1,Main,Pork hot pot set,5/7/23 12:00,"36 Khlong Tan, Khlong Toei",Bangkok,10110,TRUE
+ORD_001,30,1,Beverage,Coca Cola,5/7/23 12:00,"36 Khlong Tan, Khlong Toei",Bangkok,10110,TRUE
+ORD_002,190,1,Main,Soy marinated shrimp,5/7/23 13:00,At Restaurent,Bangkok,0,FALSE
+ORD_002,500,1,Main,Seafood hot pot set,5/7/23 13:00,At Restaurent,Bangkok,0,FALSE
+ORD_002,50,2,Beverage,Diet Coke,5/7/23 13:00,At Restaurent,Bangkok,0,FALSE
+ORD_003,290,2,Main,Soy marinated salmon,5/7/23 13:30,"12 Huai Khwang, Huai Khwang",Bangkok,10310,TRUE
+ORD_003,100,1,Main,Grill pork neck,5/7/23 13:30,"12 Huai Khwang, Huai Khwang",Bangkok,10310,TRUE
+ORD_003,290,1,Main,Grilled Tuna,5/7/23 13:30,"12 Huai Khwang, Huai Khwang",Bangkok,10310,TRUE
+ORD_003,50,2,Beverage,Coca Cola,5/7/23 13:30,"12 Huai Khwang, Huai Khwang",Bangkok,10310,TRUE
+ORD_004,200,1,Main,Pork hot pot set,5/7/23 14:30,"12 Huai Khwang, Huai Khwang",Bangkok,10310,TRUE
+ORD_004,250,1,Main,Ribeye steak,5/7/23 14:30,"12 Huai Khwang, Huai Khwang",Bangkok,10310,TRUE
+ORD_004,30,1,Beverage,Coca Cola,5/7/23 14:30,"12 Huai Khwang, Huai Khwang",Bangkok,10310,TRUE
+ORD_005,90,1,Side,Caesar Salad,5/7/23 16:00,At Restaurent,Bangkok,0,FALSE
+ORD_005,290,1,Main,Mix soy marinated,5/7/23 16:00,At Restaurent,Bangkok,0,FALSE
+ORD_005,450,1,Main,Ribeye steak,5/7/23 16:00,At Restaurent,Bangkok,0,FALSE
+ORD_005,180,2,Main,Grill pork neck,5/7/23 16:00,At Restaurent,Bangkok,0,FALSE
+ORD_005,70,1,Side,French fries,5/7/23 16:00,At Restaurent,Bangkok,0,FALSE
+ORD_005,120,2,Beverage,Beer,5/7/23 16:00,At Restaurent,Bangkok,0,FALSE
+ORD_006,290,3,Main,Soy marinated salmon,5/7/23 17:30,"55 Khlong Tan Nuea, Watthana",Bangkok,10110,TRUE
+ORD_006,200,1,Main,Pork hot pot set,5/7/23 17:30,"55 Khlong Tan Nuea, Watthana",Bangkok,10110,TRUE
+ORD_006,90,1,Dessert,Chocolate Brownie,5/7/23 17:30,"55 Khlong Tan Nuea, Watthana",Bangkok,10110,TRUE
+ORD_007,290,2,Main,Mix soy marinated,5/7/23 18:00,At Restaurent,Bangkok,0,FALSE
+ORD_007,290,2,Main,Grilled Beef Rice,5/7/23 18:00,At Restaurent,Bangkok,0,FALSE
+ORD_007,500,1,Main,Seafood hot pot set,5/7/23 18:00,At Restaurent,Bangkok,0,FALSE
+ORD_007,50,3,Beverage,Coca Cola,5/7/23 18:00,At Restaurent,Bangkok,0,FALSE
+ORD_007,50,1,Dessert,Vanila Ice Cream,5/7/23 18:00,At Restaurent,Bangkok,0,FALSE
+ORD_007,50,1,Dessert,Chocolate Ice Cream,5/7/23 18:00,At Restaurent,Bangkok,0,FALSE
+ORD_008,290,2,Main,Soy marinated salmon,5/7/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_008,450,1,Main,Ribeye steak,5/7/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_008,90,1,Side,Caesar Salad,5/7/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_008,70,1,Side,Edamame beans,5/7/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_008,120,3,Beverage,Beer,5/7/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_008,90,1,Dessert,Banoffee Pie,5/7/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_009,290,1,Main,Soy marinated shrimp,5/7/23 20:00,At Restaurent,Bangkok,0,FALSE
+ORD_009,150,1,Main,Grilled Tuna,5/7/23 20:00,At Restaurent,Bangkok,0,FALSE
+ORD_009,120,1,Side,Fried gyoza,5/7/23 20:00,At Restaurent,Bangkok,0,FALSE
+ORD_009,290,2,Main,Grilled Beef Rice,5/7/23 20:00,At Restaurent,Bangkok,0,FALSE
+ORD_009,90,1,Side,Caesar Salad,5/7/23 20:00,At Restaurent,Bangkok,0,FALSE
+ORD_009,10,2,Beverage,Water,5/7/23 20:00,At Restaurent,Bangkok,0,FALSE
+ORD_010,290,3,Main,Soy marinated salmon,5/8/23 11:00,"3 Pathumwan, Pathumwan",Bangkok,10330,TRUE
+ORD_010,500,1,Main,Seafood hot pot set,5/8/23 11:00,"3 Pathumwan, Pathumwan",Bangkok,10330,TRUE
+ORD_010,180,2,Main,Grill pork neck,5/8/23 11:00,"3 Pathumwan, Pathumwan",Bangkok,10330,TRUE
+ORD_010,450,2,Main,Ribeye steak,5/8/23 11:00,"3 Pathumwan, Pathumwan",Bangkok,10330,TRUE
+ORD_010,290,1,Main,Grilled Tuna,5/8/23 11:00,"3 Pathumwan, Pathumwan",Bangkok,10330,TRUE
+ORD_011,190,1,Main,Soy marinated salmon,5/8/23 12:15,At Restaurent,Bangkok,0,FALSE
+ORD_011,400,1,Main,Pork hot pot set,5/8/23 12:15,At Restaurent,Bangkok,0,FALSE
+ORD_011,180,1,Main,Grill pork neck,5/8/23 12:15,At Restaurent,Bangkok,0,FALSE
+ORD_011,90,1,Side,Caesar Salad,5/8/23 12:15,At Restaurent,Bangkok,0,FALSE
+ORD_011,70,1,Side,French fries,5/8/23 12:15,At Restaurent,Bangkok,0,FALSE
+ORD_011,90,1,Dessert,Chocolate Brownie,5/8/23 12:15,At Restaurent,Bangkok,0,FALSE
+ORD_011,50,2,Beverage,Coca Cola,5/8/23 12:15,At Restaurent,Bangkok,0,FALSE
+ORD_012,190,3,Main,Soy marinated salmon,5/8/23 14:00,"17 Huamark, Bangkapi",Bangkok,10240,TRUE
+ORD_012,100,1,Main,Grill pork neck,5/8/23 14:00,"17 Huamark, Bangkapi",Bangkok,10240,TRUE
+ORD_012,150,1,Main,Grilled Tuna,5/8/23 14:00,"17 Huamark, Bangkapi",Bangkok,10240,TRUE
+ORD_012,90,1,Side,Caesar Salad,5/8/23 14:00,"17 Huamark, Bangkapi",Bangkok,10240,TRUE
+ORD_012,120,1,Side,Fried gyoza,5/8/23 14:00,"17 Huamark, Bangkapi",Bangkok,10240,TRUE
+ORD_013,190,1,Main,Soy marinated salmon,5/8/23 15:30,At Restaurent,Bangkok,0,FALSE
+ORD_013,200,1,Main,Pork hot pot set,5/8/23 15:30,At Restaurent,Bangkok,0,FALSE
+ORD_013,300,1,Main,Seafood hot pot set,5/8/23 15:30,At Restaurent,Bangkok,0,FALSE
+ORD_013,450,1,Main,Ribeye steak,5/8/23 15:30,At Restaurent,Bangkok,0,FALSE
+ORD_013,70,1,Side,French fries,5/8/23 15:30,At Restaurent,Bangkok,0,FALSE
+ORD_013,50,2,Beverage,Coca Cola,5/8/23 15:30,At Restaurent,Bangkok,0,FALSE
+ORD_014,290,1,Main,Soy marinated salmon,5/8/23 17:00,"28 Chatuchak, Chatuchak",Bangkok,10900,TRUE
+ORD_014,290,1,Main,Grilled Tuna,5/8/23 17:00,"28 Chatuchak, Chatuchak",Bangkok,10900,TRUE
+ORD_014,90,1,Side,Caesar Salad,5/8/23 17:00,"28 Chatuchak, Chatuchak",Bangkok,10900,TRUE
+ORD_014,120,1,Side,Fried gyoza,5/8/23 17:00,"28 Chatuchak, Chatuchak",Bangkok,10900,TRUE
+ORD_014,90,1,Dessert,Banoffee Pie,5/8/23 17:00,"28 Chatuchak, Chatuchak",Bangkok,10900,TRUE
+ORD_015,190,1,Main,Soy marinated salmon,5/8/23 18:30,At Restaurent,Bangkok,0,FALSE
+ORD_015,290,1,Main,Soy marinated shrimp,5/8/23 18:30,At Restaurent,Bangkok,0,FALSE
+ORD_015,300,1,Main,Seafood hot pot set,5/8/23 18:30,At Restaurent,Bangkok,0,FALSE
+ORD_015,250,1,Main,Ribeye steak,5/8/23 18:30,At Restaurent,Bangkok,0,FALSE
+ORD_015,150,1,Main,Grilled Tuna,5/8/23 18:30,At Restaurent,Bangkok,0,FALSE
+ORD_015,50,3,Dessert,Chocolate Ice Cream,5/8/23 18:30,At Restaurent,Bangkok,0,FALSE
+ORD_015,120,5,Beverage,Beer,5/8/23 18:30,At Restaurent,Bangkok,0,FALSE
+ORD_016,290,1,Main,Soy marinated shrimp,5/8/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_016,450,1,Main,Ribeye steak,5/8/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_016,90,1,Side,Caesar Salad,5/8/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_016,90,2,Dessert,Banoffee Pie,5/8/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_016,10,2,Beverage,Water,5/8/23 19:00,At Restaurent,Bangkok,0,FALSE
+ORD_017,290,2,Main,Mix soy marinated,5/8/23 19:30,"63 Khlong Tan Nuea, Watthana",Bangkok,10110,TRUE
+ORD_017,290,1,Main,Grilled Beef Rice,5/8/23 19:30,"63 Khlong Tan Nuea, Watthana",Bangkok,10110,TRUE
+ORD_017,90,1,Side,Caesar Salad,5/8/23 19:30,"63 Khlong Tan Nuea, Watthana",Bangkok,10110,TRUE
+ORD_018,290,1,Main,Soy marinated salmon,5/8/23 19:45,At Restaurent,Bangkok,0,FALSE
+ORD_018,400,1,Main,Pork hot pot set,5/8/23 19:45,At Restaurent,Bangkok,0,FALSE
+ORD_018,250,1,Main,Ribeye steak,5/8/23 19:45,At Restaurent,Bangkok,0,FALSE
+ORD_018,150,1,Main,Grilled Tuna,5/8/23 19:45,At Restaurent,Bangkok,0,FALSE
+ORD_018,10,2,Beverage,Water,5/8/23 19:45,At Restaurent,Bangkok,0,FALSE
+ORD_019,190,1,Main,Soy marinated salmon,5/8/23 20:20,At Restaurent,Bangkok,0,FALSE
+ORD_019,290,1,Main,Grilled Beef Rice,5/8/23 20:20,At Restaurent,Bangkok,0,FALSE
+ORD_019,70,2,Beverage,Beer,5/8/23 20:20,At Restaurent,Bangkok,0,FALSE
+ORD_020,290,2,Main,Mix soy marinated,5/8/23 21:05,"9 Jompol, Chatuchak",Bangkok,10900,TRUE
+ORD_020,500,1,Main,Seafood hot pot set,5/8/23 21:05,"9 Jompol, Chatuchak",Bangkok,10900,TRUE
+ORD_020,450,1,Main,Ribeye steak,5/8/23 21:05,"9 Jompol, Chatuchak",Bangkok,10900,TRUE
+ORD_020,120,1,Side,Fried gyoza,5/8/23 21:05,"9 Jompol, Chatuchak",Bangkok,10900,TRUE
