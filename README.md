@@ -13,7 +13,7 @@ Create a database that can be shown on the restaurant's dashboard in order to tr
 - Tableau Public
 
 ## Project Workflow
-### 1. Create restaurant database diagrams using [QuickDBD](https://www.quickdatabasediagrams.com/)
+### 1. Design a relational database of restaurant using [QuickDBD](https://www.quickdatabasediagrams.com/)
    The data must have for a restaurant database
 - **Menu data**: This would include `item id`, `sku`, `item name`, `item category`, `item size` and `item price`.
      - This data could be used to generate orders, track inventory, and create reports.
