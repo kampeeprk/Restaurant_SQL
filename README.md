@@ -1,4 +1,4 @@
-# Create database for my own restaurant
+# Create database for the restaurant
 
 ## Requirement
 Create a database that can be shown on the restaurant's dashboard in order to track the performance of the restaurant, including
